@@ -72,18 +72,18 @@
 #     print()
 
 
-n=int(input())
-for i in range(1,n+1):
-    for j in range(1,(n*2)):
-        if i+j == n+1 or j-(n-1)==i :
-            print("* ",end="")
-        else:
-            print("  ",end="")
-    print()
-for i in reversed(range(1,n)):
-    for j in reversed(range(1,(n*2))):
-        if i+j == n+1 or j-(n-1)==i  :
-            print("* ",end="")
-        else:
-            print("  ",end="")
-    print()
+# n=int(input())
+# for i in range(1,n+1):
+#     for j in range(1,(n*2)):
+#         print("* ",end="")if i+j == n+1 or j-(n-1)==i else print("  ",end="")
+#     print()
+# for i in reversed(range(1,n)):
+#     for j in reversed(range(1,(n*2))):
+#         print("* ",end="") if i+j == n+1 or j-(n-1)==i else print("  ",end="")
+#     print()
+
+
+# for i in range(6):
+#     for j in range(7):
+#         print("*",end="") if (i ==0 and j%3 !=0 ) or (i ==1 and j%3==0) or (i-j ==2) or (i+j == 8) else print(end=" ")
+#     print()

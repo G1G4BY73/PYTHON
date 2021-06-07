@@ -7,7 +7,7 @@ text_2_speech.set_service_url("https://api.eu-gb.text-to-speech.watson.cloud.ibm
 with open("demo.txt") as text_file:
     data = text_file.read()
     text_file.close()
-with open("demo8.mp3","wb") as audiofile:
+with open("demo2.mp3","wb") as audiofile:
     audiofile.write(
     text_2_speech.synthesize(data,accept="audio/mp3").get_result().content
     )

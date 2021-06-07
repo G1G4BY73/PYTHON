@@ -1,25 +1,30 @@
-Moreover, I discuss what can be learned from his attack vectors as well as
-how they can be used today. I discuss some personal accounts and dissect
-them, as well.
-What social engineering guide would be complete without discussing
-some of the ways you can mitigate these attacks? The appendix provides
-this information. I answer some common questions on mitigation and give
-some excellent tips to help secure you and your organization against these
-malicious attacks.
-The preceding overview is just a taste of what is to come. I truly hope you
-enjoy reading this book as much as I have enjoyed writing it. Social
-engineering is a passion for me. I do believe there are certain traits, whether
-learned or inherent, that can make someone a great social engineer. I also
-subscribe to the belief that with enough time and energy anyone can learn
-the different aspects of social engineering and then practice these skills to
-become a proficient social engineer.
-The principles in this book are not new; there is no mind-blowing
-technology that you will see that will change the face of security forever.
-There are no magic pills. As a matter of fact, the principles have been around
-for as long as people have. What this book does do is combine all of these
-skills in one location. It does give you clear direction on how to practice these
-skills as well as examples of real-life situations where they are used. All of
-this information can help you gain a true sense of understanding the topics
-discussed.
-The best place to start is with the basics, by answering one fundamental
-question: “What is social engineering?”
+Overview of Social Engineering
+What is social engineering?
+I once asked this question to a group of security enthusiasts and I was
+shocked at the answers I received:
+“Social engineering is lying to people to get information.”
+“Social engineering is being a good actor.”“Social engineering is knowing how to get stuff for free.”
+Wikipedia defines it as “the act of manipulating people into performing
+actions or divulging confidential information. While similar to a confidence
+trick or simple fraud, the term typically applies to trickery or deception for the
+purpose of information gathering, fraud, or computer system access; in most
+cases the attacker never comes face-to-face with the victim.”
+Although it has been given a bad name by the plethora of “free pizza,” “free
+coffee,” and “how to pick up chicks” sites, aspects of social engineering
+actually touch many parts of daily life.
+Webster’s Dictionary defines social as “of or pertaining to the life, welfare,
+and relations of human beings in a community.” It also defines engineering
+as “the art or science of making practical application of the knowledge of
+pure sciences, as physics or chemistry, as in the construction of engines,
+bridges, buildings, mines, ships, and chemical plants or skillful or artful
+contrivance; maneuvering.”
+Combining those two definitions you can easily see that social
+engineering is the art or better yet, science, of skillfully maneuvering human
+beings to take action in some aspect of their lives.
+This definition broadens the horizons of social engineers everywhere.
+Social engineering is used in everyday life in the way children get their
+parents to give in to their demands. It is used in the way teachers interact
+with their students, in the way doctors, lawyers, or psychologists obtain
+information from their patients or clients. It is definitely used in law
+enforcement, and in dating—it is truly used in every human interaction from
+babies to politicians and everyone in between.
