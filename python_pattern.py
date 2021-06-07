@@ -87,3 +87,20 @@
 #     for j in range(7):
 #         print("*",end="") if (i ==0 and j%3 !=0 ) or (i ==1 and j%3==0) or (i-j ==2) or (i+j == 8) else print(end=" ")
 #     print()
+
+# import turtle
+# turtle.pensize(1)
+# turtle.speed(1)
+# turtle.color("black")
+# turtle.begin_fill()
+# turtle.fillcolor("red")
+# turtle.left(135)
+# turtle.forward(200)
+# turtle.circle(-90,200)
+# turtle.setheading(60)
+# turtle.circle(-90,200)
+# turtle.forward(200)
+# turtle.end_fill()
+ 
+
+# print("Thank You!")
